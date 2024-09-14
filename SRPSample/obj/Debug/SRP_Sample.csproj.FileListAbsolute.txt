@@ -1,0 +1,7 @@
+C:\Users\Mani Deep\source\repos\SRP_Sample\SRP_Sample\obj\Debug\SRP_Sample.csproj.AssemblyReference.cache
+C:\Users\Mani Deep\source\repos\SRP_Sample\SRP_Sample\obj\Debug\SRP_Sample.csproj.CoreCompileInputs.cache
+C:\Users\Mani Deep\source\repos\SRP_Sample\SRP_Sample\bin\Debug\SRP_Sample.exe.config
+C:\Users\Mani Deep\source\repos\SRP_Sample\SRP_Sample\bin\Debug\SRP_Sample.exe
+C:\Users\Mani Deep\source\repos\SRP_Sample\SRP_Sample\bin\Debug\SRP_Sample.pdb
+C:\Users\Mani Deep\source\repos\SRP_Sample\SRP_Sample\obj\Debug\SRP_Sample.exe
+C:\Users\Mani Deep\source\repos\SRP_Sample\SRP_Sample\obj\Debug\SRP_Sample.pdb
