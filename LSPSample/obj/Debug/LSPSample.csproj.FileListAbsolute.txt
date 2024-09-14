@@ -1,0 +1,7 @@
+C:\Users\Mani Deep\source\repos\LSPSample\bin\Debug\LSPSample.exe.config
+C:\Users\Mani Deep\source\repos\LSPSample\bin\Debug\LSPSample.exe
+C:\Users\Mani Deep\source\repos\LSPSample\bin\Debug\LSPSample.pdb
+C:\Users\Mani Deep\source\repos\LSPSample\obj\Debug\LSPSample.csproj.AssemblyReference.cache
+C:\Users\Mani Deep\source\repos\LSPSample\obj\Debug\LSPSample.csproj.CoreCompileInputs.cache
+C:\Users\Mani Deep\source\repos\LSPSample\obj\Debug\LSPSample.exe
+C:\Users\Mani Deep\source\repos\LSPSample\obj\Debug\LSPSample.pdb
